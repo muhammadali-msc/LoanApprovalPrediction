@@ -5,7 +5,7 @@
 3. Create a template.py file to define the project structure and files.
 4. Setting the project info and package detail in setup.py.
 5. Adding logger.py and exception.py functionality.
-6. Setting up the mongodb connection 
+6. Setting up the mongodb server connection and testing. 
 ### Installing Packages:
 1. python.exe -m pip install --upgrade pip
 2. pip install -r requirements.txt
