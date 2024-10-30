@@ -50,7 +50,7 @@ class LoanApprovalDataExtract():
             raise CustomException(e, sys)
 
 if __name__ == '__main__':
-    FILE_PATH = "dataset/train.csv"
+    FILE_PATH = "dataset/LoanApprovalDataset.csv"
     DATABASE = "LoanApprovalDB"
     COLLECTION = "LoanApprovalCollection"
 
