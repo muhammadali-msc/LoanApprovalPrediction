@@ -1,0 +1,39 @@
+cb_person_cred_hist_length:
+  drift_status: false
+  p_value: 0.20669465087814043
+cb_person_default_on_file:
+  drift_status: false
+  p_value: 1.0
+id:
+  drift_status: false
+  p_value: 0.698167807108818
+loan_amnt:
+  drift_status: false
+  p_value: 0.8995591237228049
+loan_grade:
+  drift_status: false
+  p_value: 0.9969574523955046
+loan_int_rate:
+  drift_status: false
+  p_value: 0.6182247317575669
+loan_intent:
+  drift_status: false
+  p_value: 0.7758268363597647
+loan_percent_income:
+  drift_status: false
+  p_value: 0.5097701554235359
+loan_status:
+  drift_status: false
+  p_value: 0.8351590146854347
+person_age:
+  drift_status: false
+  p_value: 0.5262517140464279
+person_emp_length:
+  drift_status: false
+  p_value: 0.9893171907467665
+person_home_ownership:
+  drift_status: false
+  p_value: 0.9996865836968141
+person_income:
+  drift_status: true
+  p_value: 0.024121603823277587

@@ -23,10 +23,12 @@ file_paths = [
     "notebook/",
     "logs/",
     "config/config.yml",
+    "data_schema/schema.yml",
     "params.yml",
     "schema.yml",
     "Dockerfile",
     "setup.py",
+    "main.py",
     "requirements.txt",
     ".env"
 ]

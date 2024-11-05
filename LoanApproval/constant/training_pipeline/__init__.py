@@ -19,4 +19,15 @@ FILE_NAME: str = 'LoanApprovalDataset.csv'
 TRAIN_FILE_NAME: str = 'train.csv'
 TEST_FILE_NAME: str = 'test.csv'
 
+'''Data Validation Constant'''
+DATA_VALID_DIR: str = "data_validation"
+DATA_VALID_VALID_DIR: str = "validated"
+DATA_VALID_INVALID_DIR: str = "invalid"
+DATA_VALID_DRIFT_REPORT_DIR: str = "drift_report"
+DATA_VALID_DRIFT_REPORT_FILE_NAME: str = "report.yaml"
+
+SCHEMA_FILE_PATH = os.path.join("data_schema", "schema.yml")
+
+
+
 
